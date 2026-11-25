@@ -1,0 +1,4 @@
+aiohttp[speedups]
+SQLAlchemy
+pyspark
+pandas
